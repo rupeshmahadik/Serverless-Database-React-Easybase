@@ -1,0 +1,19 @@
+.notes{
+  display: flex;
+  justify-content: center;
+
+}
+.notes-inner{
+  background-color: #efefef;
+  margin: 20px;
+  padding: 7px;
+  border-radius: 7px;
+  border: 2px solid blue;
+}
+
+.btn{
+	position: absolute;
+	left: 10px;
+	right: 10px;
+	font-size: 20px;
+}
